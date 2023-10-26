@@ -1,0 +1,16 @@
+{
+    "blogs": [
+      {
+        "title": "How I Steal Food Like Ninja",
+        "body": "Hello I am luffy and i am Gonna become king of the pirates.I love food and i am as steakthy as a ninja in stealing them",
+        "author": "Luffy",
+        "id": 1
+      },
+      {
+        "title": "Booze",
+        "body": "Booze is all i need to beat anyone as you know i am the strongest of rest of crew much more than that cook,sometimes i feel like to navigate the ship",
+        "author": "Zoro",
+        "id": 2
+      }
+    ]
+  }
