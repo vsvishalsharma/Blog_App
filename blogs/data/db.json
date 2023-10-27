@@ -1,16 +1,24 @@
 {
-    "blogs": [
-      {
-        "title": "How I Steal Food Like Ninja",
-        "body": "Hello I am luffy and i am Gonna become king of the pirates.I love food and i am as steakthy as a ninja in stealing them",
-        "author": "Luffy",
-        "id": 1
-      },
-      {
-        "title": "Booze",
-        "body": "Booze is all i need to beat anyone as you know i am the strongest of rest of crew much more than that cook,sometimes i feel like to navigate the ship",
-        "author": "Zoro",
-        "id": 2
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "title": "How I Steal Food Like Ninja",
+      "body": "Hello I am luffy and i am Gonna become king of the pirates.I love food and i am as steakthy as a ninja in stealing them",
+      "author": "Luffy",
+      "id": 1
+    },
+    {
+      "title": "Booze",
+      "body": "Booze is all i need to beat anyone as you know i am the strongest of rest of crew much more than that cook,sometimes i feel like to navigate the ship",
+      "author": "Zoro",
+      "id": 2
+    },
+    {
+      "title": "Money is all you need",
+      "body": "Money is like a ship, and financial wisdom is your navigator. With a clear destination in mind, budgeting becomes your compass. Savings serve as your treasure chest, providing security and flexibility when the storms of life hit. Venture into the world of investments, much like exploring the Grand Line, and let your wealth grow over time. Debt, like a treacherous sea, must be navigated carefully. Distinguish between good and bad debt to maintain a stable financial ship. Chart your financial future, set goals, and plan for retirement, just as you would map a New World. Remember, it's not just about accumulating wealth; it's about using your riches to make a positive impact on the world. Money, when managed wisely, can give you the freedom to live life on your own terms. Just as Luffy aims to be the Pirate King, set your sights on becoming the Philanthropy King or Queen.",
+      "author": "Nami",
+      "id": 3
+    }
+    
+
+  ]
+}
